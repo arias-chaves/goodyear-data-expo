@@ -1,24 +1,22 @@
-# Data @ Goodyear — Costa Rica Connection Expo
+# Data at Goodyear — Costa Rica Connection Expo
 
-Static GitHub Pages site for the Data Engineering / Data Services / Metadata & Governance expo stand.
+Concise GitHub Pages microsite for the Costa Rica Connection Expo.
 
-## Publish with GitHub Pages
+## Structure
+- Data Engineering
+- Data Services
+- Metadata & Governance
+- Simplified Data Services organization
+- Tool ecosystem
+- Metadata curation overview
 
-1. Create a new GitHub repository (for example `goodyear-data-expo`).
-2. Upload `index.html`, `styles.css` and `script.js` to the repository root.
-3. In GitHub: **Settings → Pages → Build and deployment → Deploy from a branch**.
-4. Select the `main` branch and `/ (root)`, then Save.
-5. GitHub will provide a URL similar to:
-   `https://YOUR-USERNAME.github.io/goodyear-data-expo/`
-6. Use that URL to create the final QR code for the printed stand.
+The organization chart intentionally shows only the leadership chain relevant to this presentation: Mark Stewart → David Anckaert → Laura Kish → Rachael Keck and Rob Graebert.
 
-## Important before making the site public
+## GitHub Pages
+Upload the contents of this folder to a GitHub repository and enable GitHub Pages from the `main` branch.
 
-The source presentations are Goodyear internal/proprietary material. This public-safe version intentionally avoids internal credentials, system identifiers, detailed internal architecture, named internal team rosters and other sensitive implementation details. Review the page against Goodyear's information-classification rules before publishing it publicly.
 
-## Customization
-
-- Edit text in `index.html`.
-- Edit Goodyear-style colors and layout in `styles.css`.
-- The page uses no external frameworks or build step.
-- The QR area is intentionally a placeholder until the final GitHub Pages URL exists.
+## Organization roles
+- Laura Kish — Senior Director Platform and Data Manage
+- Rachael Keck — Data Solutions Architect
+- Rob Graebert — Enterprise Data Governance
